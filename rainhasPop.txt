@@ -5,3 +5,4 @@
 5 - Rina Sawayama
 6 - (Rebase) Melanie Martinez
 7 - Gloria Groove
+8 - Fechando a issue
