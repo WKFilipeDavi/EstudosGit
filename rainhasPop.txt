@@ -7,3 +7,4 @@
 7 - Gloria Groove
 8 - Fechando a issue (fail)
 9 - Fechando Exemplo de Issue 
+10- Samira
