@@ -2,7 +2,6 @@
 2 - Pabllo Vittar
 3 - Madonna
 4 - Rihanna
-5 - Melanie Martinez
-6 - Rina Sawayama
-
-8 - Gloria Groove
+5 - Rina Sawayama
+6 - (Rebase) Melanie Martinez
+7 - Gloria Groove
